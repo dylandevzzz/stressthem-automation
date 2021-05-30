@@ -19,4 +19,5 @@ Simple tool made to automate stressthem and contininously make attacks on a regu
 **FAQ**
 
 Do you need chrome?
+
 A: Yes
