@@ -15,3 +15,8 @@ Simple tool made to automate stressthem and contininously make attacks on a regu
 - Enter login credentials, complete recaptcha
 - Enter IP, Port, Method, Time
 - Leave program open.
+
+**FAQ**
+
+Do you need chrome?
+A: Yes
