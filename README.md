@@ -21,3 +21,7 @@ Simple tool made to automate stressthem and contininously make attacks on a regu
 Do you need chrome?
 
 A: Yes
+
+**Educational Purposes**
+
+Any use of this tool is up to you, I (dylan) do not have any involvement in what you use my software for and this is for educational purposes only.
